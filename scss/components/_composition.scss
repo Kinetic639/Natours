@@ -27,7 +27,6 @@
             z-index: 20;
         }
     }
-
     &:hover &__photo:not(:hover) {
         transform: scale(.95);
     }
